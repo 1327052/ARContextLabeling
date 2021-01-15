@@ -1,0 +1,35 @@
+﻿Big Thunder Mountain,ﾋﾞｯｸﾞｻﾝﾀﾞｰ･ﾏｳﾝﾃﾝ,35.632465,139.883348,60,attractions/Thunder,100,80,10,800,Westernland,BThM,Thrill
+Pirates of the Caribbean,ｶﾘﾌﾞの海賊,35.634235,139.880687,30,attractions/Pirates,10,600,10,800,Adventureland,PotC,Adventure
+Splash Mountain,ｽﾌﾟﾗｯｼｭ･ﾏｳﾝﾃﾝ",35.63039,139.883026,120,attractions/Splash,90,0,0,2000,Westernland,SpMn,Thrill
+Cindarella’s Fairy Tale Hall,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Cinder,30,-400,-10,-600,Fantasyland,Cind,Children
+Western River Railroad,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/WesternRR,40,560,-10,900,Adventureland,WRiR,Adventure
+Jungle Cruise,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,40,attractions/Jungle,20,1000,-10,1200,Adventureland,JCru,Adventure
+Swiss Family Treehouse,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Swiss,80,1200,400,1100,Adventureland,SFTr,Children
+The Enchanted Tiki Room,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Tiki,5,1200,-20,2100,Adventureland,Tiki,Children
+Westernland Shootin Gallery,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Shoot,70,-40,-20,1900,Westernland,WSht,Adventure
+Country Bear Theater,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Bear,60,300,-10,1400,Westernland,CBTh,Children
+Tom Sawyer Island Rafts,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Tom,60,-400,-10,2200,Westernland,TSIR,Adventure
+Mark Twain Riverboat,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Riverboat,100,-120,10,1000,Westernland,MTRi,Adventure
+Beaver Brothers Canoes,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Beaver,5,90,-10,1800,Westernland,BeBr,Adventure
+It’s a small world,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/SmallWorld,85,-700,10,-900,Fantasyland,SmWo,Children
+Pooh’s Hunny Hunt,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Pooh,20,-600,-10,-1600,Fantasyland,PHyH,Children
+Haunted Mansion,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Haunted,95,-90,10,-1200,Fantasyland,HMan,Thrill
+Alice’s Tea Party,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Alice,50,50,-10,-1800,Fantasyland,ATea,Children
+Castle Carrousel,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Castle,20,30,10,-700,Fantasyland,CasC,Children
+Pinocchio’s Journey,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Pino,15,300,-10,-1600,Fantasyland,PinJ,Children
+Peter Pan’s Flight,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Peter,65,50,10,-1600,Fantasyland,PetF,Children
+Mickey’s PhilharMagic,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Phil,30,-410,-10,-2400,Fantasyland,MiPh,Children
+Snow White’s Adventures,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Snow,20,-500,10,-2600,Fantasyland,SWAd,Children
+Dumbo The Flying Elephant,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Dumbo,80,600,-10,-1800,Fantasyland,DFlE,Children
+Gadget’s Go Coaster,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Gadget,92,1000,10,200,Toon Town,GGCo,Thrill
+Goofy’s Paint n Play House,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Paint,25,1200,-10,-200,Toon Town,GPPH,Children
+Chip ‘n Dale’s Treehouse,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Chip,44,600,10,10,Toon Town,CDTr,Children
+Donald’s Boat,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/DBoat,50,1400,-10,-400,Toon Town,DBot,Children
+Minnie’s House,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Minnie,5,1050,10,-200,Toon Town,MinH,Children
+Roger Rabbit’s Spin,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Rabbit,10,800,-10,200,Toon Town,RRSp,Children
+Star Tours,ｽﾀｰ･ﾂｱｰｽﾞ:ｻﾞ･ｱﾄﾞﾍﾞﾝﾁｬｰｽﾞ･ｺﾝﾃｨﾆｭｰ,35.633398,139.878144,100,attractions/StarTours,95,-1000,0,0,Tomorrowland,StTo,Adventure
+Space Mountain,ｽﾍﾟｰｽ･ﾏｳﾝﾃﾝ,35.632474,139.878144,100,attractions/Space,100,-800,0,200,Tomorrowland,SpMo,Thrill
+Buzz Lightyear’s Blasters,ﾊﾞｽﾞﾗｲﾄｲﾔｰのｱｽﾄﾛﾌﾞﾗｽﾀｰ,35.632757,139.879024,100,attractions/Buzz,90,-1500,0,-80,Tomorrowland,Buzz,Adventure
+Monsters Inc. Go Seek,ﾓﾝｽﾀｰｽﾞ･ｲﾝｸ“ﾗｲﾄﾞ&ｺﾞｰｼｰｸ!,35.633638,139.878252,100,attractions/Monster,70,-2000,0,-200,Tomorrowland,MInc,Children
+Stitch Encounter,ｽﾃｨｯﾁ･ｴﾝｶｳﾝﾀｰ(ｷｬﾌﾟﾃﾝEO･ﾐｸﾛｱﾄﾞﾍﾞﾝﾁｬｰ!),35.632535,139.879206100,100,attractions/StitchE,60,-1800,0,20,Tomorrowland,StEn,Children
+Omnibus,ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,attractions/Omnibus,10,-900,0,600,OBus,Children

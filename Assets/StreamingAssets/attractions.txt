@@ -1,0 +1,5 @@
+﻿Big Thunder Mountain",ﾋﾞｯｸﾞｻﾝﾀﾞｰ･ﾏｳﾝﾃﾝ,35.632465,139.883348,60,./images/attractions/Thunder.png
+Pirates of the Caribbean",ｶﾘﾌﾞの海賊,35.634235,139.880687,30,./images/attractions/Pirates.png
+Splash Mountain",ｽﾌﾟﾗｯｼｭ･ﾏｳﾝﾃﾝ",35.63039,139.883026,120,./images/attractions/Splash.png
+Cindarella’s Fairy Tale Hall",ｼﾝﾃﾞﾚﾗのﾌｪｱﾘｰﾃｲﾙ･ﾎｰﾙ,35.632082,139.880891,90,./images/attractions/Cinder.png
+
